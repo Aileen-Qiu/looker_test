@@ -21,3 +21,5 @@ explore: d_store {}
 explore: d_vendor {}
 
 explore: sales {}
+
+explore: test1 {}

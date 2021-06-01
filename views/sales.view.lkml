@@ -82,8 +82,10 @@ view: sales {
     sql: ${TABLE}.volume_sold_liters ;;
   }
 
+
   measure: count {
     type: count
     drill_fields: []
   }
+
 }
